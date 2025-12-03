@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button';
 // import Legend from './Legend';
 
 mapboxgl.accessToken =
-  'pk.eyJ1IjoiZGF0YXJrYWxsb28iLCJhIjoiY2toOXI3aW5kMDRlZTJ4cWt0MW5kaHg4eCJ9.V4NfOecIoFaErvFv_lfKLg';
+  'pk.eyJ1IjoiY29tZWRpcHJvaiIsImEiOiJjbWlwMmYzYm4wN3RtM2RvdnIwOGE5ZXcwIn0.bGtKveJIx79R82fGs365lA';
 
 const Map = (props) => {
   const mapContainerRef = useRef(null);

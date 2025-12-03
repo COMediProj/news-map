@@ -198,7 +198,7 @@ function App() {
     colorArray.push(pair[0]);
   });
 
-  colorArray.push('#001181');
+  colorArray.push('#2c2e42');
 
   const fillColor = {
     id: 'colorado',
@@ -210,7 +210,7 @@ function App() {
         'case',
         ['boolean', ['feature-state', 'hover'], false],
         0.3,
-        0.7,
+        1,
       ],
     }
   };
